@@ -5,27 +5,26 @@ Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. August 10
 <img src="/mapa%20cero%20mas%20infinito.png" width="400" />
 
 ## Organizing Committee
-
-Matías Blaustein  - iB3, Universidad de Buenos Aires 
-Aldana Claps - National Center of Medical Genetics (CNGM)-ANLIS  
-Liliana Dain  - iB3, Universidad de Buenos Aires - National Center of Medical Genetics (CNGM)-ANLIS  
-Ianina Ferder - iB3, Universidad de Buenos Aires  
-Marina Ingravidi - iB3, Universidad de Buenos Aires 
-Natalia Macchiaroli - iB3, Universidad de Buenos Aires 
-Ezequiel Petrillo - IFIBYNE-CONICET-Universidad de Buenos Aires 
-María Sol Ruiz - IQUIBICEN-CONICET-Universidad de Buenos Aires  
-Ines Sananez - iB3, Universidad de Buenos Aires 
+- Matías Blaustein  - iB3, Universidad de Buenos Aires
+- Aldana Claps - National Center of Medical Genetics (CNGM)-ANLIS
+- Liliana Dain  - iB3, Universidad de Buenos Aires - National Center of Medical Genetics (CNGM)-ANLIS  
+- Ianina Ferder - iB3, Universidad de Buenos Aires
+- Marina Ingravidi - iB3, Universidad de Buenos Aires
+- Natalia Macchiaroli - iB3, Universidad de Buenos Aires
+- Ezequiel Petrillo - IFIBYNE-CONICET-Universidad de Buenos Aires
+-  María Sol Ruiz - IQUIBICEN-CONICET-Universidad de Buenos Aires
+- Ines Sananez - iB3, Universidad de Buenos Aires 
 
 
 ## Speakers  
 *Detailed information about each speaker* [here.]
 
-    - Wil Prall, Institut des Sciences des Plantes de Paris-Saclay (IPS2), CNRS/INRAE – Université Paris-Saclay (Francia).
-    - Natalia Pinello, Institut Pasteur de Montevideo (Uruguay).
-    - Renato Oliveira, Instituto Tecnológico Vale – Desenvolvimento Sustentável (ITV DS), Brasil. 
-    - Daniel Eduardo Chavez Viteri, Pontificia Universidad Católica del Ecuador
-    - Franco Fernandez, Instituto de Patología Vegetal (IPAVE), Centro de Investigaciones Agropecuarias (CIAP), INTA – Córdoba
-    - Cristiane Paula Gomes Calixto, Universidade de São Paulo
+- Wil Prall, Institut des Sciences des Plantes de Paris-Saclay (IPS2), CNRS/INRAE – Université Paris-Saclay (Francia).
+- Natalia Pinello, Institut Pasteur de Montevideo (Uruguay).
+- Renato Oliveira, Instituto Tecnológico Vale – Desenvolvimento Sustentável (ITV DS), Brasil. 
+- Daniel Eduardo Chavez Viteri, Pontificia Universidad Católica del Ecuador
+- Franco Fernandez, Instituto de Patología Vegetal (IPAVE), Centro de Investigaciones Agropecuarias (CIAP), INTA – Córdoba
+- Cristiane Paula Gomes Calixto, Universidade de São Paulo
 
   
 
