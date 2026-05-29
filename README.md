@@ -1,7 +1,7 @@
 # 3rd generation sequencing: II Scientific Meeting and Data analysis Workshop
 Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. August 10-12, 2026.  
 [Venue](https://maps.app.goo.gl/ikTWHjVvoqQ4A6c57): Pabellón ‘Cero más Infinito’, Ciudad Universitaria, Ciudad Autónoma de Buenos Aires, Argentina.  
-*Classroom for morning talks: 1402. Classroom for practical sessions: 1103*  
+*Classroom for morning talks: XXX. Classroom for practical sessions: XXX*  
 <img src="/mapa%20cero%20mas%20infinito.png" width="400" />
 
 ## Organizing Committee
