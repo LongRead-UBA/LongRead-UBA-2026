@@ -30,7 +30,8 @@ Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. August 10
 
 ## Professors of practical classes 
   - Agustín Baricalla, Universidad Nacional de San Luis 
-  - Lucas Servi, Elytron Biotech 
+  - Lucas Servi, Elytron Biotech
+  - Wil Prall, Institut des Sciences des Plantes de Paris-Saclay (IPS2), CNRS/INRAE – Université Paris-Saclay (Francia).
   - Aldana Claps - National Center of Medical Genetics (CNGM)-ANLIS  
   - Marina Ingravidi - iB3, Universidad de Buenos Aires
   - Natalia Macchiaroli - iB3, Universidad de Buenos Aires
