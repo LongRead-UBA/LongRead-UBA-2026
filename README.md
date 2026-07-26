@@ -53,4 +53,4 @@ Preliminary programme can be found [here.](https://docs.google.com/document/d/1v
 You can contribute to the long-read sequencing community and share your experience during the workshop at @OnTschool94359  
 
 ## Sponsors
-<img src="/Sponsors.png" width="800" />
+<img src="/logos 2026.png" width="1000" />
