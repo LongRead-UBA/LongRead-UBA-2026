@@ -1,7 +1,8 @@
 # 3rd generation sequencing: II Scientific Meeting and Data analysis Workshop
 Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. August 10-12, 2026.  
 [Venue](https://maps.app.goo.gl/ikTWHjVvoqQ4A6c57): Pabellón ‘Cero más Infinito’, Ciudad Universitaria, Ciudad Autónoma de Buenos Aires, Argentina.  
-*Classroom for morning talks: 1401. Classroom for practical sessions: XXX*  
+*Classroom for morning talks: 1401. Classroom for practical sessions: 1109 (Monday and Tuesday), 1110 (Wednesday)
+  
 <img src="/mapa%20cero%20mas%20infinito.png" width="400" />
 
 ## Organizing Committee
@@ -10,7 +11,6 @@ Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. August 10
 - Liliana Dain  - iB3, Universidad de Buenos Aires - National Center of Medical Genetics (CNGM)-ANLIS  
 - Ianina Ferder - iB3, Universidad de Buenos Aires
 - Natalia Fernández - iB3, Universidad de Buenos Aires
-- Marina Ingravidi - iB3, Universidad de Buenos Aires
 - Natalia Macchiaroli - iB3, Universidad de Buenos Aires
 - Ezequiel Petrillo - IFIBYNE-CONICET-Universidad de Buenos Aires
 -  María Sol Ruiz - IQUIBICEN-CONICET-Universidad de Buenos Aires
