@@ -19,7 +19,7 @@ Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. August 10
 
 
 ## Speakers  
-*Detailed information about each speaker* [here.]
+*Detailed information about each speaker* [here.](https://docs.google.com/document/d/1N6APrIpnBX448EhXBOXCdBTX8b4wFYg6NNXONLwiK7g/edit?usp=sharing)
 
 - Daniel Eduardo Chavez Viteri - Pontificia Universidad Católica del Ecuador
 - Franco Fernandez - Instituto de Patología Vegetal (IPAVE), Centro de Investigaciones Agropecuarias (CIAP), INTA – Córdoba
