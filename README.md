@@ -24,9 +24,11 @@ Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. August 10
 - Daniel Eduardo Chavez Viteri - Pontificia Universidad Católica del Ecuador
 - Franco Fernandez - Instituto de Patología Vegetal (IPAVE), Centro de Investigaciones Agropecuarias (CIAP), INTA – Córdoba
 - Cristiane Paula Gomes Calixto - Universidade de São Paulo
+- Laura Kamenetzky - iB3, Universidad de Buenos Aires
 - Renato Oliveira - Instituto Tecnológico Vale – Desenvolvimento Sustentável (ITV DS).
 - Natalia Pinello - Institut Pasteur de Montevideo.
 - Wil Prall - Institut des Sciences des Plantes de Paris-Saclay (IPS2), CNRS/INRAE, Université Paris-Saclay.
+
 
 
   
