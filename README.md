@@ -48,7 +48,7 @@ Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires. August 10
 
 
 ## Programme
-The final programme can be found [here.](https://drive.google.com/file/d/1C2xpHShn3GAlawN59y466enrOIHp3PLX/view?usp=sharing) 
+The final programme can be found [here.](https://docs.google.com/document/d/1v93Ou8h4l5I5vqydAKHmWWVc0xDnDUlt/edit?usp=sharing&ouid=116858495887679580408&rtpof=true&sd=true) 
 
 
 ## Social media
