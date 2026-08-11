@@ -1,0 +1,70 @@
+# ONT RNA Workshop — Module 3.1 (Transcriptomics / splicing quantification)
+# Create with:   conda env create -f environment.yml     (or: mamba env create -f environment.yml)
+# Activate with: conda activate ont-rna-3.1
+#
+# This environment covers the FULL notebook pipeline:
+#     minimap2 -> stringtie (de novo assembly) -> gffread -> oarfish -> SUPPA2 -> IGV
+# GPU basecalling (Dorado) is NOT needed here — basecalled FASTQ files are provided.
+#
+# THE COMMAND-LINE TOOLS ARE NOT INSTALLED HERE. minimap2, samtools, stringtie, gffread and oarfish
+# all ship as Linux x86-64 binaries in tools/bin (with their shared libraries in tools/lib), and the
+# notebook prefers them over anything on PATH — so installing conda copies as well would download
+# ~250 MB to be ignored. This file therefore installs only the Python stack, which CANNOT be bundled
+# as loose binaries and is always required. See the macOS note at the bottom.
+#
+# NOTE ON SUPPA2: the notebook launches SUPPA with the kernel's own interpreter (sys.executable).
+# SUPPA imports scikit-learn and statsmodels at start-up, so if those are not importable *in the
+# kernel you run the notebook with*, EVERY SUPPA subcommand fails with ModuleNotFoundError before
+# it looks at your data. Register this env as a kernel (`python -m ipykernel install --user
+# --name ont-rna-3.1`) and select it, rather than running the notebook from another environment.
+name: ont-rna-3.1
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  # ---- Python + notebook ----
+  - python=3.11
+  - jupyterlab
+  - notebook
+  - ipykernel
+
+  # ---- Python libraries used by the notebook AND required by SUPPA2 ----
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn          # required by SUPPA2 at import time (lib/cluster_tools.py)
+  - statsmodels           # required by SUPPA2
+  - matplotlib
+  - seaborn
+
+  # ---- Genome browser ----
+  - igv                   # desktop IGV — step 9 opens the session file the notebook generates.
+                          # NOT bundled in tools/bin (it is a Java desktop app), so it is installed
+                          # here. Comment it out on headless servers: the notebook still prints the
+                          # read-level counts, only the picture is missing.
+
+# ---------------------------------------------------------------------------------------------
+# ON macOS OR NON-x86-64 LINUX the bundled binaries cannot execute. Uncomment the five lines below
+# and re-create the environment; the notebook falls back to PATH automatically and nothing else
+# changes. These are the exact versions tools/bin ships, so results are identical.
+#
+#  - minimap2=2.30          # long-read splice-aware aligner
+#  - samtools=1.21          # BAM sort / index / QC
+#  - stringtie=3.0.3        # de novo transcript assembly from long reads (`-L`, then `--merge`).
+#                           # v3.0.3 (Nov 2025) is the current release; the long-read mode itself is
+#                           # what the "StringTie2" paper describes (Kovaka et al. 2019) — the paper
+#                           # is old, the software is not. See REQUIREMENTS.md §2.
+#  - gffread=0.12.9         # assembled GTF -> transcript FASTA
+#  - oarfish=0.10.3         # long-read transcript quantification (replaces `salmon quant --ont`,
+#                           # which was removed upstream in salmon 2.x in favour of oarfish)
+#
+# htslib (bgzip + tabix) is deliberately absent from that list: those two indexed the annotations
+# for the embedded igv.js browser, which was removed in favour of desktop IGV. Desktop IGV reads a
+# plain GTF, so the notebook no longer calls them on any platform.
+# ---------------------------------------------------------------------------------------------
+
+# SUPPA2 (v2.4) ships inside this workshop folder at tools/SUPPA-2.4/suppa.py and is called
+# directly, so it does NOT need to be installed here. If you prefer a pip install instead, uncomment:
+#  - pip
+#  - pip:
+#      - SUPPA==2.4
