@@ -1,3 +1,3 @@
-Here are some pictures of the event. Thank you for joining us!!
+## Here are some pictures of the event. Thank you for joining us!!
 
-<img src="/mapa%20cero%20mas%20infinito.png" width="400" />
+<img src="/Pictures/Day 1 - DC.jpeg" width="400" />
